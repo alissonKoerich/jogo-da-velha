@@ -5,9 +5,9 @@
 <img align="center" alt="alisson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
 
 <hr>
-📑Descrição
+📑Descrição:<br>
 
-<p>Easy Jogo da velha.
+<p>Um simples projeto feito com html, css e js.
 
 🔨Creditos:
 
